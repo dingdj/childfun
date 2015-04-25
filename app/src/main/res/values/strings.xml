@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">亲子游</string>
+    <plurals name="likes_count">
+        <item quantity="one">%d like</item>
+        <item quantity="other">%d likes</item>
+    </plurals>
+    <string name="alert_error">发送错误报告帮助我们改进</string>
+    <string name="alert_error_title">出错啦！</string>
+    <string name="bug_feedback_title">亲子游(%1$s) 错误反馈</string>
+    <string name="send_cofirm">发送</string>
+    <string name="common_cancel">取消</string>
+</resources>
